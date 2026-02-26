@@ -17,6 +17,7 @@
 ## 📫 Connect With Me
 - GitHub: https://github.com/Gourish-Naik18
 - LinkedIn: https://www.linkedin.com/in/gourish-naik-455371395/
+- HackerRank : https://www.hackerrank.com/profile/gowreshnaik1427
 
 ---
 
